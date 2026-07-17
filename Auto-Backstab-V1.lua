@@ -52,7 +52,7 @@ local cooldown = false
 local lastTarget = nil
 local range = 4
 local daggerRemote = ReplicatedStorage:WaitForChild("Modules"):WaitForChild("Network"):WaitForChild("RemoteEvent")
-local killerNames = { "c00lkidd", "JohnDoe", "1x1x1x1", "Noli", "Slasher", "Azure", "Guest 666", "Nosferatu" }
+local killerNames = { "c00lkidd", "JohnDoe", "1x1x1x1", "Noli", "Slasher", "Azure", "Guest666", "Nosferatu" }
 local killersFolder = workspace:WaitForChild("Players"):WaitForChild("Killers")
 
 -- GUI toggle
