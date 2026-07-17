@@ -1,3 +1,5 @@
+--Script By HKTD, TikTok: https://www.tiktok.com/@hktd_roblox
+
 -- Services
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
@@ -31,7 +33,7 @@ predictionBox.Parent = screenGui
 -- Config
 local active = false
 local aimDuration = 1.7
-local aimTargets = { "Jason", "c00lkidd", "JohnDoe", "1x1x1x1", "Noli" }
+local aimTargets = { "c00lkidd", "JohnDoe", "1x1x1x1", "Noli", "Slasher", "Azure", "Guest 666", "Nosferatu }
 local trackedAnimations = {
     ["103601716322988"] = true,
     ["133491532453922"] = true,
