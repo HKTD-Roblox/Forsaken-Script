@@ -1,5 +1,6 @@
 --Script By HKTD, TikTok: https://www.tiktok.com/@hktd_roblox
 
+--Auto trick Veeronica
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
